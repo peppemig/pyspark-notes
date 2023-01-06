@@ -14,7 +14,7 @@
 - funzione .describe() -> ci da in automatico count, mean, stddev, min, max
 - aggiungere colonne - .withColumn()
 - eliminare colonne - .drop()
-- rinominare colonne - .withColumnranmed()
+- rinominare colonne - .withColumnRenamed()
 
 
 -- pyspark-3.ipynb
