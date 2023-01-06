@@ -24,6 +24,10 @@
 - imputer
 
 
+-- pyspark-4.ipynb
+- filter operations
+- inverse operations -> ~
+
 
 
 
