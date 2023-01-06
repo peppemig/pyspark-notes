@@ -1,4 +1,4 @@
-## appunti PySpark
+## Appunti PySpark
 
 -- pyspark-1.ipynb
 - come creare SparkSession
