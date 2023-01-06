@@ -6,6 +6,7 @@
 - check type e Schema
 - funzione .head() per prendere solo un determinato range di righe
 
+-------------------------------------------------------------------------------
 
 -- pyspark-2.ipynb
 - inferSchema -> assegnare data type corretti alle colonne
@@ -16,6 +17,7 @@
 - eliminare colonne - .drop()
 - rinominare colonne - .withColumnRenamed()
 
+-------------------------------------------------------------------------------
 
 -- pyspark-3.ipynb
 - come eliminare valori null - na.drop()
@@ -23,20 +25,24 @@
 - come fare fill di valori null - na.fill()
 - imputer
 
+-------------------------------------------------------------------------------
 
 -- pyspark-4.ipynb
 - filter operations
 - inverse operations -> ~
 
+-------------------------------------------------------------------------------
 
 -- pyspark-5.ipynb
 - groupBy operations
 - aggregate operations
 
+-------------------------------------------------------------------------------
 
 -- pyspark-6.ipynb (ERRORE)
 - esempio prediction tramite ML - valori errati (penso per data set troppo piccolo)
 
+-------------------------------------------------------------------------------
 
 -- pyspark-7.ipynb
 - IMPLEMENTAZIONE REGRESSIONE LINEARE
