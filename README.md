@@ -29,6 +29,22 @@
 - inverse operations -> ~
 
 
+-- pyspark-5.ipynb
+- groupBy operations
+- aggregate operations
+
+
+-- pyspark-6.ipynb (ERRORE)
+- esempio prediction tramite ML - valori errati (penso per data set troppo piccolo)
+
+
+-- pyspark-7.ipynb
+- IMPLEMENTAZIONE REGRESSIONE LINEARE
+- ESEMPIO PREDICT TRAMITE ML
+  (predict conto ristorante in base a varie features)
+  (errore assoluto medio 4.56)
+
+
 
 
 
