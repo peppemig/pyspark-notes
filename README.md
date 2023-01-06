@@ -9,7 +9,7 @@
 
 -- pyspark-2.ipynb
 - inferSchema -> assegnare data type corretti alle colonne
-- selezionare una colonna o molteplici colonne
+- selezionare una colonna o colonne multiple
 - check data types
 - funzione .describe() -> ci da in automatico count, mean, stddev, min, max
 - aggiungere colonne - .withColumn()
